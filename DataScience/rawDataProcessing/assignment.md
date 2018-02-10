@@ -1,3 +1,5 @@
+# Raw text data processing task for the course Introduction to Data Science
+
 This assignment looks into Amazon reviews, and the steps needed to transform a raw dataset into one more suitable for prediction tasks.
 Download the automotive 5-core json format dataset. 
 
