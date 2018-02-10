@@ -1,6 +1,9 @@
 
 import java.util.Scanner;
 
+// Simple program that takes numbers as input, performs some calculations, and prints the results. 
+// The program quits when the input is -1.
+
 public class LoopingRememberingQuitting {
 
     public static void main(String[] args) {
