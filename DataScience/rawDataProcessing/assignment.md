@@ -11,8 +11,8 @@ Finally, another popular approach is to remove so called stop-words, words that 
 
 Do the following:
 
-a) Open the json file in python
-b) Access the reviewText field, and downcase the contents
-c) Remove all punctuation, as well as the stop-words. You can find a stop-word lists for English online
-d) Apply a stemmer on the paragraphs, so that inflected forms are mapped to the base form. 
-e) Filter the data by selecting reviews where the field overall is 4 or 5, and store the review texts in file pos.txt. Similarly, select reviews with rating 1 or 2 and store the reviews in file neg.txt. (Ignore the reviews with overall rating 3.) Each line in the two files should contain exactly one preprocessed review text without the rating.
+1. Open the json file in python
+2. Access the reviewText field, and downcase the contents
+3. Remove all punctuation, as well as the stop-words. You can find a stop-word lists for English online
+4. Apply a stemmer on the paragraphs, so that inflected forms are mapped to the base form. 
+5. Filter the data by selecting reviews where the field overall is 4 or 5, and store the review texts in file pos.txt. Similarly, select reviews with rating 1 or 2 and store the reviews in file neg.txt. (Ignore the reviews with overall rating 3.) Each line in the two files should contain exactly one preprocessed review text without the rating.
