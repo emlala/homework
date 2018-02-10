@@ -1,8 +1,6 @@
-# Emmi Lahtisalo, 014163276
+# Emmi Lahtisalo
 
-'''Assignment 8.2.'''
-
-###########################
+'''Noun Phrase chunking of English news text'''
 
 import nltk
 import re
@@ -111,6 +109,4 @@ main()
 # The chunker works quite well and can chunk correctly simple NPs.
 # (NP the/DT election/NN campaign/NN), (NP his/PRP$ tax/NN returns/NNS),  
 # (NP a/DT very/RB wealthy/JJ individual/JJ), (NP MSNBC/NNP host/NN Rachel/NNP Maddow/NNP), etc.
-# The program doesn't recognise the GBP values in parentheses correctly,
-# Based on this I would assume that the accuracy of the tagger is quite high, 
-# but not 100% by any means.
+# The program doesn't recognise the GBP values in parentheses correctly.
