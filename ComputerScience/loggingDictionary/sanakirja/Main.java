@@ -6,9 +6,9 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
-        // for testing the dictionary
+        // for testing the dictionary, remember to add an empty file for the logs on the next line
 
-        MuistavaSanakirja sanakirja = new MuistavaSanakirja("loggingDictionary/sanat.txt");
+        MuistavaSanakirja sanakirja = new MuistavaSanakirja(ADD FILE);
         boolean onnistui = sanakirja.lataa();
 
         if (onnistui) {
