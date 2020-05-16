@@ -10,4 +10,4 @@ I have included one homework example here of raw data processing which is quite 
 There are several examples I could show here but I've so far chosen two that are slightly more complex. Other work for Language Technology courses are the German to Swiss German translator which uses xfst tools and a rule-based approach, and the emmiagata project which is a search engine tool that uses Solr combined with simple Python to search and analyse Wikipedia data.
 
 ## Computer Science
-I have studied Java on two courses held by University of Helsinki, Introduction to Programming (5 ECTS, highest grade) and Advanced Course in Programming (5 ECTS, second highest grade). Therefore the Java examples I have to show are fairly simple, but show that I have a good base in this language which can easily be built up.
+I have studied Java on two courses held by University of Helsinki, Introduction to Programming (5 ECTS, highest grade) and Advanced Course in Programming (5 ECTS, second highest grade). Therefore the Java examples I have to show are fairly simple, but show that I have a good basic understanding of this language which can easily be built up.
