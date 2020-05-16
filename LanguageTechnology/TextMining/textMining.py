@@ -43,3 +43,6 @@ print("\nHottest place on Earth: " + ' '.join(hottest.split())
 
 for div in ThreeDayForecast:
     print("\n" + div.get_text("\n", strip=True))
+
+    
+# The problem with this execution is that even minor changes to the layout of the site will mess up the results.
