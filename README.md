@@ -3,7 +3,8 @@
 I've listed here a small collection of little tasks I've done as homework in the past. 
 
 ## Introduction to Data Science
-This course was held by the CS department of University of Helsinki.
+This course was held by the CS department of University of Helsinki
+The course was worth 5 ECTS and I finished the course with second highest grade.
 The main task of this course was the group project which you can find from my pinned repositories.
 I have included one homework example here of raw data processing which is quite similar to what I've done in Language Technology courses as well.
 
