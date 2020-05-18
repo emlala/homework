@@ -1,5 +1,5 @@
 // This was a basic exercise for setting up a form server. 
-// I created a simple html form and created a server to store and print out the data posted throught the form.
+// I created a simple html form and a server to collect data through the form.
 
 const fs  = require('fs');
 const http = require('http');
