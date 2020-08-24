@@ -1,6 +1,6 @@
 # Examples of homework tasks from the past
 
-I've listed here a small collection of little tasks I've done as homework in the past. 
+I've listed here a collection of tasks I've done as homework in the past. 
 
 ## Introduction to Web Development and Programming, 2020
 I'm taking this Aalto University course in spring 2020 through FITech, and as the name would suggest, it's an introductory level course.  This course covers the basic principles of building a simple online service. Utilised technologies include JavaScript, Node.js, HTML/CSS.
