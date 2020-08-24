@@ -1,4 +1,4 @@
-# Noun Phrase chunker for raw English text
+## Noun Phrase chunker for raw English text
 
 In this task, I needed to design a noun phrase (NP) chunker for just any English text. As test data, I used a recent news story from the BBC. I used a Naive Bayes classifier to train my chunker.
 
