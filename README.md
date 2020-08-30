@@ -3,7 +3,7 @@
 I've listed here a collection of tasks I've done as homework in the past. 
 
 ## Introduction to Web Development and Programming, 2020
-I'm taking this Aalto University course in spring 2020 through FITech, and as the name would suggest, it's an introductory level course.  This course covers the basic principles of building a simple online service. Utilised technologies include JavaScript, Node.js, HTML/CSS.
+I took this Aalto University course in spring 2020 through FITech, and as the name would suggest, it was an introductory level course. This course was worth 3 ECTS points and it covered the basic principles of building a simple online service. Utilised technologies included JavaScript, Node.js, HTML/CSS. 
 
 ## Machine Learning with Python, 2020
 I took this Aalto University course through FITech over spring 2020 to brush up my Python and Machine Learning skills. The course was worth 2 ECTS and had six rounds that were published over three months.
