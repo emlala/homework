@@ -7,7 +7,7 @@ I took this Aalto University course in spring 2020 through FITech, and as the na
 
 ## Machine Learning with Python, 2020
 I took this Aalto University course through FITech over spring 2020 to brush up my Python and Machine Learning skills. The course was worth 2 ECTS and had six rounds that were published over three months.
-I have included here a student task from round 5, to give an idea of the kind of tasks and topics that the course had. I finished the course with second highest grade.
+I have included here a student task from round 5, to give an idea of the kind of tasks and topics that the course had.
 
 ## Computer Science, 2018
 I have studied Java on two courses held by University of Helsinki, Introduction to Programming (5 ECTS, highest grade) and Advanced Course in Programming (5 ECTS, second highest grade), both in 2018. The Java examples I have to show are fairly simple, but they show that I have a good basic understanding of this language which can easily be built up.
